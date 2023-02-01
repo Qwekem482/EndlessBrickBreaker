@@ -1,7 +1,7 @@
 # Endless Brick breaker
 
 A simple, colorful Brick Breaker game and only stop when you lose.
-Try and find your limit and skill?
+
 Developed by Qwekem482
 
 
