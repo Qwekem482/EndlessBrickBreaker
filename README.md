@@ -23,7 +23,7 @@ Developed by Qwekem482
  ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
 
  - This project is made with Unity Engine, coded by Visual Studio Code, sprite created by [Figma](https://www.figma.com/ "Figma")
- - This game is created with the help of [Unity Forum]https://forum.unity.com/ "Unity Forum"), [Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), [noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
+ - This game is created with the help of [Unity Forum](https://forum.unity.com/ "Unity Forum"), [Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), [noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
  
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/80797630/216096930-7101e820-dcf2-40f6-b9c9-58fcd5ac7334.png)
