@@ -2,6 +2,7 @@
 
 A simple, colorful Brick Breaker game and only stop when you lose.
 Try and find your limit and skill?
+Developed by Qwekem482
 
 
 ## Game Mechanism
@@ -17,6 +18,12 @@ Try and find your limit and skill?
 ## Other features
  - Player can change color of the playground with 6 buttons on the right of the screen. Each button have 4 color, which represent background, border, ball and block & basket color. But the color of them is random between 4 color, enjoy :wink:
  - Text color will automatically change between black and white according to the color of background.
+ 
+## Support and Tutorial
+ ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
+
+ - This project is made with Unity Engine, coded by Visual Studio Code, sprite created by [Figma](https://www.figma.com/ "Figma")
+ - This game is created with the help of [Unity Forum]https://forum.unity.com/ "Unity Forum"), [Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), [noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
  
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/80797630/216096930-7101e820-dcf2-40f6-b9c9-58fcd5ac7334.png)
