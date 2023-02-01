@@ -22,8 +22,12 @@ Developed by Qwekem482
 ## Support and Tutorial
  ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
 
- - This project is made with Unity Engine, coded by Visual Studio Code, sprite created by [Figma](https://www.figma.com/ "Figma")
- - This game is created with the help of [Unity Forum](https://forum.unity.com/ "Unity Forum"), [Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), [noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
+ - This project is made with Unity Engine, coded by Visual Studio Code.
+ - Sprite created using [Figma](https://www.figma.com/ "Figma") by me.
+ - Sound from Unity Asset Store: 
+      - [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943) by [B.G.M](https://assetstore.unity.com/publishers/9381 "B.G.M")
+      - [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116) by [Dustyroom](https://assetstore.unity.com/publishers/16150 "Dustyroom")
+ - This game is created with the help of ![4d4d4d](https://placehold.co/15x15/4d4d4d/4d4d4d.png)[Unity Forum](https://forum.unity.com/ "Unity Forum"), ![#f37700](https://placehold.co/15x15/f37700/f37700.png)[Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), ![#00fff0](https://placehold.co/15x15/00fff0/00fff0.png)[noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
  
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/80797630/216096930-7101e820-dcf2-40f6-b9c9-58fcd5ac7334.png)
@@ -31,5 +35,6 @@ Developed by Qwekem482
 ![image](https://user-images.githubusercontent.com/80797630/216100106-20202d32-d52a-49c9-9416-c04247acf02f.png)
 ![image](https://user-images.githubusercontent.com/80797630/216100294-fb5e5ade-8d74-41f1-94dc-8c19b6a515cf.png)
 ![image](https://user-images.githubusercontent.com/80797630/216100473-88948d0a-862a-496e-bc98-47da7ebb0899.png)
+![image](https://user-images.githubusercontent.com/80797630/216110296-662dbe55-27f9-4f18-8a24-4938edb3d4b2.png)
 
 
