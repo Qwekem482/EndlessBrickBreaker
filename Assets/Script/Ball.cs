@@ -14,6 +14,7 @@ public class Ball : MonoBehaviour
     {
         Push();
     }
+
     public void Push()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.up * speed;
@@ -38,6 +39,7 @@ public class Ball : MonoBehaviour
         if(collision.gameObject.CompareTag("DeathLine"))
         {
             Game.SubLive();
+            Push();
             this.transform.position = new Vector3(0f, -8.7f, 10f);
         }
 

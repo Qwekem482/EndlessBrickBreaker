@@ -13,13 +13,16 @@ public class Game : MonoBehaviour
     private int numberOfBlock;
     private static bool ballDestroyed = false;
 
-    public static int score = 0;
-    public static int turn = 1;
-    public static int live = 3;
+    public static int score;
+    public static int turn;
+    public static int live;
 
     void Start()
     {
         SpawnBlock();
+        score = 0;
+        turn = 1;
+        live = 3;
     }
 
     void Update()
@@ -96,6 +99,6 @@ public class Game : MonoBehaviour
         SpawnBlock();
         turn++;
         live++;
-        Ball.speed = Ball.speed + 0.3f;
+        Ball.speed = Ball.speed + 1f;
     }
 }

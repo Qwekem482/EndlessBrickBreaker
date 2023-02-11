@@ -73,3 +73,9 @@ crashlytics-build.properties
 
 #Meta File
 *.meta
+
+#Zip File
+*.zip
+
+#Json File
+*.json
