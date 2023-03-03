@@ -22,7 +22,7 @@ Developed by Qwekem482
 ## Support and Tutorial
  ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
 
- - This project is made with Unity Engine, coded by Visual Studio Code.
+ - This project is made with Unity Engine, coded with Visual Studio Code.
  - Sprite created using [Figma](https://www.figma.com/ "Figma") by me.
  - Sound from Unity Asset Store: 
       - [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943) by [B.G.M](https://assetstore.unity.com/publishers/9381 "B.G.M")
