@@ -1,6 +1,6 @@
-# Endless Brick breaker
+# Endless Brick breaker II
 
-A simple, colorful Brick Breaker game and only stop when you lose.
+A new, remake version of old Endless Brick Breaker game, which was created by me and broken because I add .meta file to gitignore. 
 
 Developed by Qwekem482
 
@@ -12,12 +12,12 @@ Developed by Qwekem482
     - Lives: The remaining live of player.
     - Turn: Number of current turn.
  - At start of a game player has 3 lives (actually, 4). Player will lost 1 live when the ball drop out off the screen. 
- - When player clear all the brick, new brick will be generated automatically and immediately. Also, player will be added 1 live and speed of the ball will increase 1.
- - Number of blocks each turn and position of them is random. 
+ - When player clear all the brick, new brick will be generated automatically and immediately. Also, player will be added 2 lives, basket speed and ball speed will increase.
+ - Number of blocks each turn and position of them is random in range (30, 90). 
 
-## Other features
- - Player can change color of the playground with 6 buttons on the right of the screen. Each button have 4 color, which represent background, border, ball and block & basket color. But the color of them is random between 4 color, enjoy :wink:
- - Text color will automatically change between black and white according to the color of background.
+## New features
+ - Game now have UI.
+ - 
  
 ## Support and Tutorial
  ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
