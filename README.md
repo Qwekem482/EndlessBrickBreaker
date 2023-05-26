@@ -15,9 +15,17 @@ Developed by Qwekem482
  - When player clear all the brick, new brick will be generated automatically and immediately. Also, player will be added 2 lives, basket speed and ball speed will increase.
  - Number of blocks each turn and position of them is random in range (30, 90). 
 
-## New features
+## New Features
  - Game now have UI.
- - 
+ - Game now avaiable on android.
+ - Game can auto resize game object and UI to fit with different screen ratio.
+ - Remove color button, but game objects (brick, ball, basket) now change color when lose a live.
+ - Game now only uses light color for game objects.
+
+## Existing Limitation
+ - Basket moving is a little bad.
+ - Menu Screen and End Screen is too simple
+ - Highest row of brick sometimes is empty in some screen ratio.
  
 ## Support and Tutorial
  ![Percentage](https://user-images.githubusercontent.com/80797630/216106474-3f61e883-1114-42af-acfd-2af312b6d185.png)
@@ -30,11 +38,8 @@ Developed by Qwekem482
  - This game is created with the help of ![4d4d4d](https://placehold.co/15x15/4d4d4d/4d4d4d.png)[Unity Forum](https://forum.unity.com/ "Unity Forum"), ![#f37700](https://placehold.co/15x15/f37700/f37700.png)[Stackoverflow](https://stackoverflow.com/ "Stackoverflow"), ![#00fff0](https://placehold.co/15x15/00fff0/00fff0.png)[noobtuts](https://noobtuts.com/unity/2d-arkanoid-game "noobtuts")
  
 ## Screenshot
-![image](https://user-images.githubusercontent.com/80797630/216096930-7101e820-dcf2-40f6-b9c9-58fcd5ac7334.png)
-![image](https://user-images.githubusercontent.com/80797630/216099994-3f26d3c9-3602-4862-93e1-a559d277c363.png)
-![image](https://user-images.githubusercontent.com/80797630/216100106-20202d32-d52a-49c9-9416-c04247acf02f.png)
-![image](https://user-images.githubusercontent.com/80797630/216100294-fb5e5ade-8d74-41f1-94dc-8c19b6a515cf.png)
-![image](https://user-images.githubusercontent.com/80797630/216100473-88948d0a-862a-496e-bc98-47da7ebb0899.png)
-![image](https://user-images.githubusercontent.com/80797630/216110296-662dbe55-27f9-4f18-8a24-4938edb3d4b2.png)
+![Screenshot_20230526-163622](https://github.com/Qwekem482/EndlessBrickBreaker/assets/80797630/d37c300a-ecf8-47bb-b504-049b170e0783)![Screenshot_20230526-163630](https://github.com/Qwekem482/EndlessBrickBreaker/assets/80797630/779dfde7-1627-4b38-a037-4029b7d48eb4)
+![Screenshot_20230526-163639](https://github.com/Qwekem482/EndlessBrickBreaker/assets/80797630/4c58c896-ce49-4ac8-8167-8c5cf3836b09)![Screenshot_20230526-163654](https://github.com/Qwekem482/EndlessBrickBreaker/assets/80797630/b9a75bce-29f2-4114-99c2-f60dd1118673)
+
 
 
