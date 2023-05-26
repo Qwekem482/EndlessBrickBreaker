@@ -10,7 +10,7 @@ Developed by Qwekem482
     - Score: equal to the number of broken block.
     - Time: Played time, which is caculated from the start.
     - Lives: The remaining live of player.
-    - Turn: Number of current turn.
+    - Level: Number of current level.
  - At start of a game player has 3 lives (actually, 4). Player will lost 1 live when the ball drop out off the screen. 
  - When player clear all the brick, new brick will be generated automatically and immediately. Also, player will be added 2 lives, basket speed and ball speed will increase.
  - Number of blocks each turn and position of them is random in range (30, 90). 
