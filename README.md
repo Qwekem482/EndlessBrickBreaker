@@ -21,6 +21,8 @@ Developed by Qwekem482
  - Game can auto resize game object and UI to fit with different screen ratio.
  - Remove color button, but game objects (brick, ball, basket) now change color when lose a live.
  - Game now only uses light color for game objects.
+ - Ball speed will increase in each level. Ball speed formula: $10 + 0.75\sqrt{3 * level} + level/40$
+ - Basket speed will increase in each level. Basket speed formula: $10 + 0.75\sqrt{4 * level} + level/30$
 
 ## Existing Limitation
  - Basket moving is a little bad.
